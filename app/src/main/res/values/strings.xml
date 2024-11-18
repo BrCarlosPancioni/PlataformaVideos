@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Plataformavideos</string>
+
+    <string-array name="listacategoria">
+        <item>Categoria</item>
+        <item>Jogos</item>
+        <item>Informativo</item>
+        <item>Conhecimento</item>
+
+    </string-array>
+</resources>
